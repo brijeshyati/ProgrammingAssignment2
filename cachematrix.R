@@ -1,4 +1,4 @@
-## ## R Programming - Programming Assignment 2
+## ## R Programming - Prog Assig 2
 
 makeCacheMatrix <- function(x = matrix()) {
   xinv <- NULL
